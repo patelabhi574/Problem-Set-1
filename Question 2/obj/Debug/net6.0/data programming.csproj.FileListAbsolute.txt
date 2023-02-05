@@ -1,0 +1,30 @@
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\bin\Debug\net6.0\data programming.exe
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\bin\Debug\net6.0\data programming.deps.json
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\bin\Debug\net6.0\data programming.runtimeconfig.json
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\bin\Debug\net6.0\data programming.dll
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\bin\Debug\net6.0\data programming.pdb
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.dll
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\refint\data programming.dll
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.pdb
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\data programming.genruntimeconfig.cache
+C:\Users\patel\OneDrive\Desktop\New folder (2)\encoding\data programming\obj\Debug\net6.0\ref\data programming.dll
+C:\Users\patel\OneDrive\Desktop\data programming\bin\Debug\net6.0\data programming.exe
+C:\Users\patel\OneDrive\Desktop\data programming\bin\Debug\net6.0\data programming.deps.json
+C:\Users\patel\OneDrive\Desktop\data programming\bin\Debug\net6.0\data programming.runtimeconfig.json
+C:\Users\patel\OneDrive\Desktop\data programming\bin\Debug\net6.0\data programming.dll
+C:\Users\patel\OneDrive\Desktop\data programming\bin\Debug\net6.0\data programming.pdb
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.dll
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\refint\data programming.dll
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.pdb
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\data programming.genruntimeconfig.cache
+C:\Users\patel\OneDrive\Desktop\data programming\obj\Debug\net6.0\ref\data programming.dll
